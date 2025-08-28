@@ -19,6 +19,13 @@
   font-size: 1.5rem;
 }
 
+.albumCategoryLetter {
+  background-color:gray;
+  border-radius: 4px;
+  color: #fff;
+  padding: 4px 8px;
+}
+
 @media (max-width: 768px) {
   .albumGridWrapper img {
     width: 80%;

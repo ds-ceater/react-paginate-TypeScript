@@ -4,6 +4,7 @@ type Album = {
   thumbnail: string;
   title: string;
   price: number;
+  category: string;
 }
 
 export type { Album };

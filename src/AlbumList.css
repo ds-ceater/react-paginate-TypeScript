@@ -26,6 +26,7 @@
   padding: 4px 8px;
 }
 
+
 @media (max-width: 768px) {
   .albumGridWrapper img {
     width: 80%;
